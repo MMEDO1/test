@@ -12,6 +12,6 @@ draft: false
 ---
 <!--more-->
 
-hi
+bye
 
 test
