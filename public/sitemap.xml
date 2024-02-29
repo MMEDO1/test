@@ -2,25 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/%20/tags/anything/</loc>
+    <loc>https://cosmic-blancmange-de7ded.netlify.app/%20/tags/anything/</loc>
     <lastmod>2023-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/%20/categories/</loc>
+    <loc>https://cosmic-blancmange-de7ded.netlify.app/%20/categories/</loc>
     <lastmod>2023-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/%20/categories/discord/</loc>
+    <loc>https://cosmic-blancmange-de7ded.netlify.app/%20/categories/discord/</loc>
     <lastmod>2023-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/%20/example1/</loc>
+    <loc>https://cosmic-blancmange-de7ded.netlify.app/%20/example1/</loc>
     <lastmod>2023-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/%20/</loc>
+    <loc>https://cosmic-blancmange-de7ded.netlify.app/%20/</loc>
     <lastmod>2023-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/%20/posts/</loc>
+    <loc>https://cosmic-blancmange-de7ded.netlify.app/%20/posts/</loc>
     <lastmod>2023-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/%20/tags/</loc>
+    <loc>https://cosmic-blancmange-de7ded.netlify.app/%20/tags/</loc>
     <lastmod>2023-05-16T00:00:00+00:00</lastmod>
   </url>
 </urlset>

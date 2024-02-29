@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on My New Hugo Site</title>
-    <link>http://localhost:1313/%20/tags/</link>
+    <link>https://cosmic-blancmange-de7ded.netlify.app/%20/tags/</link>
     <description>Recent content in Tags on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 16 May 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/%20/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://cosmic-blancmange-de7ded.netlify.app/%20/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Anything</title>
-      <link>http://localhost:1313/%20/tags/anything/</link>
+      <link>https://cosmic-blancmange-de7ded.netlify.app/%20/tags/anything/</link>
       <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/%20/tags/anything/</guid>
+      <guid>https://cosmic-blancmange-de7ded.netlify.app/%20/tags/anything/</guid>
       <description></description>
     </item>
   </channel>
